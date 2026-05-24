@@ -3,12 +3,12 @@
   "name": "piper-archer-pa-28-tx-performance-profile",
   "compatibility_date": "2026-05-24",
   "observability": {
-    "enabled": true
+    "enabled": true,
   },
+  "workers_dev": false,
+  "preview_urls": false,
   "assets": {
-    "not_found_handling": "single-page-application"
+    "not_found_handling": "single-page-application",
   },
-  "compatibility_flags": [
-    "nodejs_compat"
-  ]
+  "compatibility_flags": ["nodejs_compat"],
 }
